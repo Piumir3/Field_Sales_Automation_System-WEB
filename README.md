@@ -1,3 +1,17 @@
+#Field_Sales_Management_System that facilitates the paperless system for the companies who does the field selling. It contains the web application for company administration and mobile application for their sales representatives.
+
+The main facilities of the system are,
+- User, Role and Permission management
+- Route and Delivery vehicle management
+- Product and Shop management
+- Report generating and export as Pdf, CSV, Excel, Print
+- Make order
+- View summaries
+- Mark attendance
+
+Technologies
+Laravel, Bootstrap, jQuery, MySQL,  Google API
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
